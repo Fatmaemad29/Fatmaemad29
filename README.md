@@ -47,6 +47,8 @@
 # 💻 Tech Stack :
 
 ## 🧠 AI / ML / DL
+
+### 🔹 Machine Learning / Deep Learning
 ![AI](https://img.shields.io/badge/AI-%23FF69B4.svg?style=for-the-badge&logo=brain&logoColor=white)
 ![ML](https://img.shields.io/badge/ML-%23FF1493.svg?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![DL](https://img.shields.io/badge/DL-%23DB7093.svg?style=for-the-badge&logo=deep-learning&logoColor=white)
@@ -54,12 +56,25 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### 🔹 Computer Vision / Detection / Segmentation
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%2363F5F5?style=for-the-badge&logo=opencv&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-%23FF4500?style=for-the-badge&logo=ai&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-%23FF69B4?style=for-the-badge&logo=ai&logoColor=white)
+![UNet](https://img.shields.io/badge/UNet-%239b59b6?style=for-the-badge&logo=ai&logoColor=white)
+![Mask R-CNN](https://img.shields.io/badge/Mask%20R--CNN-%2300CED1?style=for-the-badge&logo=ai&logoColor=white)
+![DeepLab](https://img.shields.io/badge/DeepLab-%23FFB347?style=for-the-badge&logo=ai&logoColor=white)
+![LANNet](https://img.shields.io/badge/LANNet-%2345b1e8?style=for-the-badge&logo=ai&logoColor=white)
+
+### 🔹 Natural Language Processing (NLP)
+![NLP](https://img.shields.io/badge/NLP-%23FF69B4?style=for-the-badge&logo=ai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFA500?style=for-the-badge&logo=huggingface&logoColor=white)
+
 
 ## 🖥 Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
